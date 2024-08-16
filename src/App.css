@@ -1,0 +1,44 @@
+.App,
+html {
+  overflow-x: hidden;
+  scrollbar-width: none;
+  font-family: "Outfit";
+  /* cursor: none; */
+
+}
+
+
+
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-thumb,
+::-webkit-scrollbar-track {
+  display: none;
+  visibility: hidden;
+}
+
+
+
+body {
+  /* background:
+    linear-gradient(263.76deg, rgba(20, 21, 23, 0) 61.23%, #0B0B0C 94.69%),
+    linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #0C0C0C 100%),
+    linear-gradient(180deg, #2F3337 0%, #16171B 100%); */
+  /* background-image: url('./Components/assets/overAllBG.svg'); */
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; */
+  /* mix-blend-mode: color-dodge; */
+
+
+  /* background-image: url('../src/Components/assets/BG.png'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
